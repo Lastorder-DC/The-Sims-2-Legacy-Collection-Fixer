@@ -43,7 +43,7 @@ The **Sims 2 Legacy Collection Fixer** fixes some of the issues with The Sims™
 ---
 
 ## **Notes**
-- Using the **verfity integrity of game files** option in Steam or EA App will **revert** some of the fixes made by this installer. This happens because it detects the modified game files and replaces them with the vanilla ones. The fixes reverted are the restored radio songs, the 'Objects.package' files being read only, the missing CAS items from the Happy Holidays Stuff Pack, the menues saying 'The Sims™ 2', and the base game loading text. After using the **verfity integrity of game files** you can simply run this program again to fix the issue.
+- Using the **verfity integrity of game files** option in Steam or EA App will **revert** some of the fixes made by this installer. This happens because it detects the modified game files and replaces them with the vanilla ones. So if you use verfity integrity of game files you will then need to use this program again. 
 
  - TS2-Extender auto skips the intro and makes the game launch in borderless mode. You can change this by editing the 'TS2Extender.ini' located in TSBin in the EP9 folder.
 
