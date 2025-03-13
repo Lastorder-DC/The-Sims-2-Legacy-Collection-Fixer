@@ -55,7 +55,7 @@ The **Sims 2 Legacy Collection Fixer** fixes some of the issues with The Sims™
 
 These are all mods and programs that aren't included with this program, but I highly recommend you go install.
 
-- [Sims2Pack Clean Installer](https://modthesims.info/d/409950/sims2pack-clean-installer-v1-6-22-updated-aug-2-2014.html) - Legacy Collection doesn't include the Maxis program needed to install 'Sims2Pack' files, so you can use this Mootilda program instead.
+- [Sims2Pack Clean Installer](https://modthesims.info/d/409950/sims2pack-clean-installer-v1-6-22-updated-aug-2-2014.html) - Legacy Collection doesn't include the Maxis program needed to install '[Sims2Pack](https://gadgetsranked.com/how-do-i-install-sims2pack/)' files, so you can use this Mootilda program instead.
 
 - [UI Text Fonts Fix for AL/MG](https://modthesims.info/d/563540) - Fixes an issue where the text is smaller than it should be.
 
