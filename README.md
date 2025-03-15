@@ -63,6 +63,8 @@ If you get a **no valid video codec** error when trying to use the built-in reco
  - I am aware of how you are not meant to use dgVoodoo2 and dxvk at the same time, but in my testing it just works. I've tried it on 2 different computers and I have found that dgVoodoo2 does improve performance while dxvk fixes an issue caused by dgVoodoo2 where family thumbnails are broken. I have not experienced any issues in my testing. If you do experience issues after installing this then please let me know.
 
  - I highly recommend you do not use "high, uncompressed" option with the built-in recording feature. This causes the file size of the videos to be insanely massive. I found that a 60 second video ended up being **4 GB**.
+
+- The videos recorded with the built-in recording feature can not be played in Windows 11's default media player due to it not supporting VP6. I reccomand using [VLC](https://www.videolan.org/vlc/) to watch them.
    
 ---
 
