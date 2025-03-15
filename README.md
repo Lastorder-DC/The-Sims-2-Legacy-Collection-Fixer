@@ -64,7 +64,7 @@ If you get a **no valid video codec** error when trying to use the built-in reco
 
  - I highly recommend you do not use "high, uncompressed" option with the built-in recording feature. This causes the file size of the videos to be insanely massive. I found that a 60 second video ended up being **4 GB**.
 
-- The videos recorded with the built-in recording feature can not be played in Windows 11's default media player due to it not supporting VP6. I reccomand using [VLC](https://www.videolan.org/vlc/) to watch them.
+- The videos recorded with the built-in recording feature can not be played in Windows 11's default media player due to it not supporting VP6. I recommend using [VLC](https://www.videolan.org/vlc/) to watch them.
    
 ---
 
