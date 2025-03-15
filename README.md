@@ -45,7 +45,7 @@ The **Sims 2 Legacy Collection Fixer** fixes some of the issues with The Sims™
 ---
 
 ## **VP6 Install Instructions**
-If you get a **no valid video codec** error when trying to use the built-in recording feature, then it your computer does not have the VP6 video codec installed. Here is how to install it:
+If you get a **no valid video codec** error when trying to use the built-in recording feature, then it means your computer does not have the VP6 video codec installed. Here is how to install it:
 1. Locate your Legacy Collection install.
 2. Go into the `install` folder and then the `VP6` folder. 
 3. Run the `vp6.reg` file.
