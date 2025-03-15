@@ -58,7 +58,7 @@ If you get a **no valid video codec** error when trying to use the built-in reco
 ## **Notes**
 - Using the **verfity integrity of game files** option in Steam or EA App will **revert** some of the fixes made by this installer. This happens because it detects the modified game files and replaces them with the vanilla ones. So if you use verfity integrity of game files you will then need to use this program again. 
 
- - TS2-Extender auto skips the intro and makes the game launch in borderless mode. You can change this by editing the 'TS2Extender.ini' located in TSBin in the EP9 folder.
+ - TS2-Extender auto skips the intro. You can change this by editing the 'TS2Extender.ini' located in TSBin in the EP9 folder.
 
  - I am aware of how you are not meant to use dgVoodoo2 and dxvk at the same time, but in my testing it just works. I've tried it on 2 different computers and I have found that dgVoodoo2 does improve performance while dxvk fixes an issue caused by dgVoodoo2 where family thumbnails are broken. I have not experienced any issues in my testing. If you do experience issues after installing this then please let me know.
 
