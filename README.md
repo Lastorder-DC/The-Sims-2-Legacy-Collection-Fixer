@@ -70,7 +70,13 @@ If you get a **no valid video codec** error when trying to use the built-in reco
 
 ## **Recommended Mods & Programs**
 
-These are all mods and programs that aren't included with this program, but I highly recommend you go install.
+These are all mods and programs that aren't included with this fixer, but I highly recommend you go install.
+
+- [Body Shop Installer For Legacy Collection ](https://modthesims.info/d/690428/body-shop-installer-for-legacy-collection.html) - Installs Body Shop and makes it compatible with Legacy Collection.
+
+**Important Notice:** The store hairs from this fixer are broken in Body Shop in whatever reason. They work fine in CAS, but in Body Shop you can't select them. If this really bugs you, then you can fix this by moving the store items (the "Extra-Items" files installed in `Base/TSData/Res/Catalog/Bins`) to your downloads folder.
+
+- [Clean/Fixed Maxis Neighborhoods Installer ](https://modthesims.info/d/691808/clean-fixed-maxis-neighborhoods-installer.html) - Replaces all of the Maxis neighborhoods with clean/fixed versions made by the community.
 
 - [Sims2Pack Clean Installer](https://modthesims.info/d/409950/sims2pack-clean-installer-v1-6-22-updated-aug-2-2014.html) - Legacy Collection doesn't include the Maxis program needed to install '[Sims2Pack](https://gadgetsranked.com/how-do-i-install-sims2pack/)' files, so you can use this Mootilda program instead.
 
