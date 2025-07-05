@@ -90,4 +90,4 @@ These are all mods and programs that aren't included with this fixer, but I high
 
 - [No Corrupted Death Memory](http://www.moreawesomethanyou.com/smf/index.php?topic=2368.0) - Fixes an issue where sims can get a corrupted death memory.
 
-- If you want want to fix Legacy Collection even more, then you can check out this far more extensive mod list called: [The Sims 2 Legacy Collection - Essential Mods Masterlist](https://modthesims.info/showthread.php?t=689467)
+If you want want to fix Legacy Collection even more, then you can check out this far more extensive mod list called: [The Sims 2 Legacy Collection - Essential Mods Masterlist](https://modthesims.info/showthread.php?t=689467)
