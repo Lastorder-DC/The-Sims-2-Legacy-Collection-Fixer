@@ -70,7 +70,7 @@ If you get a **no valid video codec** error when trying to use the built-in reco
 
 ## **Recommended Mods & Programs**
 
-These are all mods and programs that aren't included with this fixer, but I highly recommend you go install.
+These are all mods and programs that aren't included with this fixer, but I highly recommend you go install:
 
 - [Body Shop Installer For Legacy Collection ](https://modthesims.info/d/690428/body-shop-installer-for-legacy-collection.html) - Installs Body Shop and makes it compatible with Legacy Collection.
 
@@ -80,10 +80,14 @@ These are all mods and programs that aren't included with this fixer, but I high
 
 - [Sims2Pack Clean Installer](https://modthesims.info/d/409950/sims2pack-clean-installer-v1-6-22-updated-aug-2-2014.html) - Legacy Collection doesn't include the Maxis program needed to install '[Sims2Pack](https://gadgetsranked.com/how-do-i-install-sims2pack/)' files, so you can use this Mootilda program instead.
 
+- [HoodChecker](https://modthesims.info/d/456523) - Detects and fixes issues with your neighborhoods.
+
 - [UI Text Fonts Fix for AL/MG](https://modthesims.info/d/563540) - Fixes an issue where the text is smaller than it should be.
 
 - [TS2 Store Edition UI Icon Restored for Any Game Setup](https://modthesims.info/d/650961/ts2-store-edition-ui-icon-restored-for-any-game-setup.html) - FIxes an issue where The Sims 2 Store CAS items are missing the store icon.
 
-- [HoodChecker](https://modthesims.info/d/456523) - Detects and fixes issues with your neighborhoods.
+- [Cper and Csla Archetypes - Now with 100% more working than the competition!](http://www.moreawesomethanyou.com/smf/index.php/topic,9028.0.html) - Fixes the 2 broken face templates 21 and 25. (If you don't know how these face templates are broken, this watch this youtube video: [The Sims 2: Broken Face Templates (explanation)](https://www.youtube.com/watch?v=HxfTTP21ZU0)
 
 - [No Corrupted Death Memory](http://www.moreawesomethanyou.com/smf/index.php?topic=2368.0) - Fixes an issue where sims can get a corrupted death memory.
+
+- If you want want to fix Legacy Collection even more, then you can check out this far more extensive mod list called: [The Sims 2 Legacy Collection - Essential Mods Masterlist](https://modthesims.info/showthread.php?t=689467)
