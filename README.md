@@ -84,8 +84,6 @@ These are all mods and programs that aren't included with this fixer, but I high
 
 - [UI Text Fonts Fix for AL/MG](https://modthesims.info/d/563540) - Fixes an issue where the text is smaller than it should be.
 
-- [TS2 Store Edition UI Icon Restored for Any Game Setup](https://modthesims.info/d/650961/ts2-store-edition-ui-icon-restored-for-any-game-setup.html) - FIxes an issue where The Sims 2 Store CAS items are missing the store icon.
-
 - [Cper and Csla Archetypes - Now with 100% more working than the competition!](http://www.moreawesomethanyou.com/smf/index.php/topic,9028.0.html) - Fixes the 2 broken face templates 21 and 25. (If you don't know how these face templates are broken, then you should watch watch this youtube video: [The Sims 2: Broken Face Templates (explanation)](https://www.youtube.com/watch?v=HxfTTP21ZU0)
 
 - [No Corrupted Death Memory](http://www.moreawesomethanyou.com/smf/index.php?topic=2368.0) - Fixes an issue where sims can get a corrupted death memory.
