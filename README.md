@@ -21,7 +21,7 @@ The **Sims 2 Legacy Collection Fixer** fixes some of the issues with The Sims™
 
 - Improves the built-in recording feature. Enabled support for smooth edges along with increased resolution, bitrate, and audio quality.
 
-- Installs [dgVoodoo2](https://github.com/dege-diosg/dgVoodoo2) and [dxvk](https://github.com/doitsujin/dxvk) to improve compatiblity and performance. 
+- Installs [dxvk](https://github.com/doitsujin/dxvk) to improve compatiblity and performance. 
 
 - Installs The Sims 2 Store and pre-order bonus exclusive items.
 
@@ -59,8 +59,6 @@ If you get a **no valid video codec** error when trying to use the built-in reco
 - Using the **verfity integrity of game files** option in Steam or EA App will **revert** some of the fixes made by this installer. This happens because it detects the modified game files and replaces them with the vanilla ones. So if you use verfity integrity of game files you will then need to use this program again. 
 
  - TS2-Extender auto skips the intro. You can change this by editing the 'TS2Extender.ini' located in TSBin in the EP9 folder.
-
- - I am aware of how you are not meant to use dgVoodoo2 and dxvk at the same time, but in my testing it just works. I've tried it on 2 different computers and I have found that dgVoodoo2 does improve performance while dxvk fixes an issue caused by dgVoodoo2 where family thumbnails are broken. I have not experienced any issues in my testing. If you do experience issues after installing this then please let me know.
 
  - I highly recommend you do not use "high, uncompressed" option with the built-in recording feature. This causes the file size of the videos to be insanely massive. I found that a 60 second video ended up being **4 GB**.
 
