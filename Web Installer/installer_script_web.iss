@@ -10,7 +10,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "The Sims 2 Legacy Collection Fixer"
-#define MyAppVersion "1.4"
+#define MyAppVersion "1.5"
 #define MyAppPublisher "SecondhandFeraligatr / CroconawSims"
 #define MyAppURL "https://modthesims.info/member.php?u=10269790"
 
