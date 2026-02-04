@@ -56,6 +56,18 @@ If you get a **no valid video codec** error when trying to use the built-in reco
 ---
 
 ## **Notes**
+- The included DXVK doesn't work on AMD systems. You need to go in the TSBin folder inside of EP9 and delete these files:
+  
+d3d8.dll
+
+d3d9.dll
+
+d3d10core.dll
+
+d3d11.dll
+
+dxgi.dll
+
 - Using the **verfity integrity of game files** option in Steam or EA App will **revert** some of the fixes made by this installer. This happens because it detects the modified game files and replaces them with the vanilla ones. So if you use verfity integrity of game files you will then need to use this program again. 
 
  - TS2-Extender auto skips the intro. You can change this by editing the 'TS2Extender.ini' located in TSBin in the EP9 folder.
