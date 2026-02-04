@@ -68,7 +68,7 @@ d3d11.dll
 
 dxgi.dll
 
-- Using the **verfity integrity of game files** option in Steam or EA App will **revert** some of the fixes made by this installer. This happens because it detects the modified game files and replaces them with the vanilla ones. So if you use verfity integrity of game files you will then need to use this program again. 
+- Using the **verfity integrity of game files** option in Steam or the **repair** option in EA App will **revert** some of the fixes made by this installer. This happens because it detects the modified game files and replaces them with the vanilla ones. This can be fixed by running the installer again.
 
  - TS2-Extender auto skips the intro. You can change this by editing the 'TS2Extender.ini' located in TSBin in the EP9 folder.
 
